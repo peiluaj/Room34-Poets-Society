@@ -1,17 +1,12 @@
-# Room 34 Poets Society — Student Site
+# Room 34 Poets Society — extended curriculum edition
 
-Deploy the contents of this folder to a GitHub Pages repository root. All links are relative. Use a local web server for testing (for example `python -m http.server 8000`).
+Student site: static GitHub Pages-compatible website. Upload all files in this folder to repository root, then enable GitHub Pages deployment from the main branch. The site must be served over HTTP(S), not opened directly as a local file, because lessons.json is fetched.
 
-**Scope:** Five differentiated versions of Week 1 lessons (1–5) are published. Lessons 6–35 are visible but locked and contain no fabricated placeholder readings. Edit `lessons.json` to add genuine content before setting `published` to true.
+## Navigation
+Choose Group 1–5, choose Week 1–7, then select a day/period lesson. All 35 lessons are published. Poppins is loaded via Google Fonts with Arial fallback. Student responses autosave to localStorage on this browser and device; changing browser/device or clearing storage loses that work. There are no backup tabs. Download CSV via the dialog, which can be cancelled. Do not rely on shared-device browser storage as a secure student account.
 
-**Privacy:** Work saves in browser localStorage, not a cloud account. On shared devices, pupils should download their CSV and a JSON backup, and clear site data only when appropriate. Local browser data can be erased.
+## Learning content and limits
+Contains 35 lessons x 5 group pathways, expanded reading passages (approximately 250–920 words), eight objective reading questions, three written questions, an extended response, ten vocabulary words, spelling exercises, writing and reflection. This is a substantial content expansion, but passage additions use common instructional scaffolds and question patterns; they are **not 175 independently researched or classroom-validated texts**. Several upper-level passages slightly exceed target word bands. Teachers must review for accuracy, cultural sensitivity, repetition and appropriateness before classroom use. Questions are original PAT-style practice, not actual PAT items. The spelling tasks are free-text, not auto-marked. Text-to-speech uses browser support. Speech-to-text is not implemented. The lesson timer is not enforced. The unit's full exact assessment rubric is maintained in the separate teacher dashboard package, not on the student site.
 
-**Curriculum:** The referenced Compassionate 2026 unit overview was not attached, so its exact assessment descriptors could not be applied. These are original teaching materials, not proprietary PAT questions.
-
-**Rights:** Supplied artist photographs and poem image are included as supplied resources; verify publishing rights before making the site public. The poem reference image is not displayed publicly by default. Video links have not been independently checked.
-
-**Note:** Text-to-speech uses browser speech synthesis. Speech-to-text is not included. Student CSV responses are not encrypted.
-
-
-## Curriculum alignment reference (15 October 2026)
-The supplied Te Ao Tangata — Compassionate 2026 overview confirms reading priorities of vocabulary, main ideas, and inference; writing priorities of poetry, information reports, and letter writing; oral presentation skills; and a New Zealand history/compassion inquiry. The separate teacher dashboard includes the verbatim official five-stage rubrics. The student lesson content has **not** been comprehensively rewritten or revalidated against this overview in this update.
+## Quality checks
+Verified JSON structure, 35 published lessons, 175 group versions, 8 multiple choice questions and 10 spelling words per version; JavaScript syntax check passed. Not fully browser-tested or independently curriculum-reviewed. Photographs must have publishing rights confirmed.
