@@ -1,0 +1,823 @@
+{
+  "lesson_title": "My First Complete Poem",
+  "schedule": "Week 1 Friday Period 3",
+  "learning_intention": "Combine poetry techniques and improve writing through purposeful revision.",
+  "success_criteria": [
+    "Identify techniques in a model poem",
+    "Write an original poem with a clear message",
+    "Revise at least one line",
+    "Explain a writing choice"
+  ],
+  "timings": {
+    "discover": 5,
+    "spelling": 10,
+    "reading": 25,
+    "writing": 15,
+    "reflection": 5
+  },
+  "discover": {
+    "original": "The rain was loud. I went home. I felt happy.",
+    "revised": "Rain drums on the classroom roof. My shoes splash through silver puddles. Home is a warm light waiting for me.",
+    "teacher_prompt": "Which changes help the reader hear, see and feel the scene? How is revision different from correcting spelling?"
+  },
+  "experiences": [
+    {
+      "id": "W01L05-PIONEERS",
+      "week": 1,
+      "lesson": 5,
+      "day": "Friday P3",
+      "group": "Pioneers",
+      "student_visible_level": null,
+      "reading_title": "Lunchtime Basketball",
+      "reading": "Sione wanted to write a poem about lunchtime basketball. He loved playing with his friends on the school court.\nHis first draft said:\nI play basketball.\nMy friends are there.\nWe have fun.\nSione read it twice. The words were true, but they did not help him remember the game. He closed his eyes and listened in his imagination. The ball bounced. His shoes squeaked. His friends shouted his name.\nHe picked up his pencil and tried again:\nThe basketball bounces like a drum.\nMy shoes sing on the court.\nOur team is a busy hive.\nWe race beneath the bright sun.\nNow Sione could almost hear the game. He liked the first line because the bouncing ball sounded like a drum. He liked the second because shoes cannot really sing. Giving shoes a human action was personification.\nHis teacher smiled at the new poem. “You have helped your reader hear and see the game,” she said.\nSione added the title Lunchtime Basketball. He checked his spelling and read the lines aloud one last time. Then he changed “race” to “dash” because it sounded quicker.\nHis poem was not longer than the first one. It was better because every word helped show what lunchtime basketball felt like.",
+      "reading_word_count": 207,
+      "target_word_count": [
+        150,
+        220
+      ],
+      "spelling_words": [
+        "poem",
+        "title",
+        "draft",
+        "revise",
+        "rhyme",
+        "rhythm",
+        "simile",
+        "metaphor",
+        "imagery",
+        "personification"
+      ],
+      "spelling_activities": [
+        {
+          "duration": "2 min · Missing letters",
+          "task": "Complete: p_em, tit_e, dr_ft, rev_se, rh_me.",
+          "key": "poem; title; draft; revise; rhyme"
+        },
+        {
+          "duration": "2 min · Meaning match",
+          "task": "Match rhythm, simile, metaphor, imagery, personification with: a beat/pattern; comparison using like/as; direct comparison; sense-based description; human actions given to non-human things.",
+          "key": "rhythm=beat/pattern; simile=like/as; metaphor=direct; imagery=sensory; personification=human qualities"
+        },
+        {
+          "duration": "3 min · Technique check",
+          "task": "Label: “The ball bounces like a drum”; “My shoes sing”; “Our team is a busy hive”.",
+          "key": "simile; personification; metaphor"
+        },
+        {
+          "duration": "3 min · Improve and check",
+          "task": "Write a two-line poem with a title. Circle a precise verb. Underline one image; read it aloud to a partner.",
+          "key": "Teacher checks for title, improved verb, and figurative or sensory image"
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What does Sione choose to write about?",
+          "options": [
+            "A rainy day",
+            "Basketball at lunchtime",
+            "A family trip",
+            "His classroom"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Find the activity Sione loves at school."
+        },
+        {
+          "question": "Why does Sione change his first poem?",
+          "options": [
+            "His teacher dislikes basketball",
+            "He wants a longer poem",
+            "He wants every line to rhyme",
+            "He wants readers to imagine the game"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Compare what the first and second versions help you notice."
+        },
+        {
+          "question": "What does Sione compare the ball to?",
+          "options": [
+            "A drum",
+            "A hive",
+            "A bird",
+            "A bell"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Look for the words “like a”."
+        },
+        {
+          "question": "Which line uses personification?",
+          "options": [
+            "We dash beneath the sun",
+            "The basketball bounces like a drum",
+            "My shoes sing on the court",
+            "I play basketball"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Which line gives something a human action?"
+        },
+        {
+          "question": "What helps Sione finish his poem?",
+          "options": [
+            "Making every line rhyme",
+            "Checking and improving words",
+            "Using very long words",
+            "Writing as quickly as possible"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Read what Sione does after he gives the poem a title."
+        }
+      ],
+      "written": [
+        {
+          "question": "Name two sounds Sione remembers.",
+          "exemplar": "The ball bouncing and his shoes squeaking.",
+          "hint": "Find the sounds Sione imagines when he closes his eyes."
+        },
+        {
+          "question": "Why is “My shoes sing” personification?",
+          "exemplar": "Shoes cannot sing; the writer gives them a human action to describe their squeak.",
+          "hint": "Can shoes sing like people? What noise do they make?"
+        },
+        {
+          "question": "Give one way Sione improves the poem.",
+          "exemplar": "He replaces plain statements with sensory details and figurative language, and revises race to dash.",
+          "hint": "Compare his first and second drafts."
+        }
+      ],
+      "writing_task": "Write 4–6 lines about school, sport, family, friends or nature. Add a title, one simile and one example of personification. Replace one ordinary word with a precise one.",
+      "reflection": "Which line are you most proud of, and why?"
+    },
+    {
+      "id": "W01L05-CREATORS",
+      "week": 1,
+      "lesson": 5,
+      "day": "Friday P3",
+      "group": "Creators",
+      "student_visible_level": null,
+      "reading_title": "Where Summer Lives",
+      "reading": "Aroha opened her notebook to write about the beach where her family spent summer afternoons. Her first draft was short:\nThe beach is nice.\nThe water is blue.\nMy family has fun.\nShe sighed. Those sentences were true, but they could describe almost any beach. She wanted her cousin Mika to recognise their favourite place.\nAroha closed her eyes. She remembered warm sand beneath her feet, salty air on her lips and her uncle calling everyone back for lunch. Her cousins ran towards the waves, laughing as the water rushed around their ankles.\nShe wrote a new version:\nThe ocean is a blue blanket.\nIts waves clap against the shore.\nWarm sand hugs my tired feet.\nOur laughter floats across the sea.\nHer teacher read the poem and asked, “What feeling do you want readers to carry away?”\n“Belonging,” Aroha replied. “The beach matters because my family is there.”\nShe added another line: This beach is our summer home.\nThe beach was not a real house, but the metaphor suggested comfort and shared memories. Aroha then replaced “floats” with “dances”. The new verb made the laughter sound lively and playful.\nShe read the poem aloud and noticed that the final two lines carried its message. She placed them together at the end. Then she checked her spelling and gave the poem a title: Where Summer Lives.\nWhen Mika heard it, he smiled. “That sounds like our beach,” he said.\nAroha realised that a first draft was only a beginning. Remembering, choosing and changing words had helped her write a poem worth keeping.",
+      "reading_word_count": 262,
+      "target_word_count": [
+        220,
+        300
+      ],
+      "spelling_words": [
+        "draft",
+        "revise",
+        "imagery",
+        "rhythm",
+        "metaphor",
+        "personification",
+        "descriptive",
+        "atmosphere",
+        "emotion",
+        "reflection"
+      ],
+      "spelling_activities": [
+        {
+          "duration": "2 min · Spelling repair",
+          "task": "Correct: revize, rythm, metafor, emotian, reflecsion.",
+          "key": "revise; rhythm; metaphor; emotion; reflection"
+        },
+        {
+          "duration": "2 min · Definition match",
+          "task": "Define draft, imagery, personification, descriptive and atmosphere in one or two words each.",
+          "key": "first version; sensory language; human qualities for non-human things; detailed; mood"
+        },
+        {
+          "duration": "3 min · Locate and label",
+          "task": "Find in Aroha’s poem: one metaphor, one example of personification, and one word whose connotation changes after revision.",
+          "key": "ocean is a blue blanket / summer home; waves clap or sand hugs; floats→dances"
+        },
+        {
+          "duration": "3 min · Revise",
+          "task": "Replace “The beach was nice” with a sentence using two senses and a figurative comparison. Explain the mood.",
+          "key": "Accept specific senses, meaningful comparison, and mood explanation"
+        }
+      ],
+      "mcq": [
+        {
+          "question": "Where does Aroha set her poem?",
+          "options": [
+            "At the beach",
+            "In a school hall",
+            "In a park",
+            "On a mountain"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Find where her family spends summer afternoons."
+        },
+        {
+          "question": "Why does her first draft disappoint her?",
+          "options": [
+            "It is too long",
+            "It has many spelling errors",
+            "It does not capture her memories",
+            "It has too many metaphors"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What could the first three sentences describe?"
+        },
+        {
+          "question": "Which line uses personification?",
+          "options": [
+            "The water is blue",
+            "Warm sand hugs my tired feet",
+            "My family has fun",
+            "The beach is nice"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "What non-human thing performs a human action?"
+        },
+        {
+          "question": "What does “our summer home” communicate?",
+          "options": [
+            "The location of their house",
+            "The size of the beach",
+            "The temperature",
+            "Belonging and shared memories"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Why is the place special to the family?"
+        },
+        {
+          "question": "Why does Aroha replace “floats” with “dances”?",
+          "options": [
+            "To make the line more energetic",
+            "To remove figurative language",
+            "To describe swimming",
+            "To introduce a character"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Compare the energy of the two verbs."
+        },
+        {
+          "question": "What does Aroha learn about revision?",
+          "options": [
+            "Every poem must rhyme",
+            "Memories should be avoided",
+            "Changing words can improve meaning",
+            "The first draft is always best"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What happens between the first and final versions?"
+        }
+      ],
+      "written": [
+        {
+          "question": "Identify two sensory memories Aroha uses.",
+          "exemplar": "Warm sand (touch), salty air (taste/smell), cousins laughing (hearing), waves (sight/sound).",
+          "hint": "Find details you can feel, taste or hear."
+        },
+        {
+          "question": "Explain “The ocean is a blue blanket.”",
+          "exemplar": "It suggests a broad blue surface and can imply comfort or warmth.",
+          "hint": "What qualities can the ocean and a blanket share?"
+        },
+        {
+          "question": "Why does the teacher ask what readers should feel?",
+          "exemplar": "To help Aroha make her central message of belonging clear.",
+          "hint": "What matters about the beach beyond its appearance?"
+        },
+        {
+          "question": "How does one revision improve the poem?",
+          "exemplar": "Replacing floats with dances makes the laughter more lively; adding summer home communicates belonging.",
+          "hint": "Choose a change and explain its effect."
+        }
+      ],
+      "writing_task": "Write 6–8 lines about a meaningful place. Include two sensory details, a metaphor or simile, and personification. Improve one verb and one image.",
+      "reflection": "What feeling did you want readers to experience, and which line creates it?"
+    },
+    {
+      "id": "W01L05-VISIONARIES",
+      "week": 1,
+      "lesson": 5,
+      "day": "Friday P3",
+      "group": "Visionaries",
+      "student_visible_level": null,
+      "reading_title": "Between Home and Tomorrow",
+      "reading": "Mele had written descriptions before, but finishing a complete poem felt different. Her teacher said a strong poem needed more than attractive language. “Find the idea at its heart,” she explained.\nMele chose her morning walk to school. Every day she passed the same dairy, crossed a busy road and walked beneath a row of trees. Her first lines were plain:\nI walk to school each day.\nCars drive past.\nThe trees are green.\nShe looked at the draft and wondered why it felt empty. Then she remembered that the same journey could feel different each morning. Sometimes she was excited to see her friends. Other mornings she worried about a test or an argument from the day before.\nMele wrote a new opening:\nThe morning road is a ribbon of questions.\nCars grumble beneath the waking sky.\nThe trees raise their arms above my head.\nThe images captured uncertainty, but she wanted the poem to move somewhere. She planned three stages: leaving home, walking through the neighbourhood and reaching the school gate.\nAt the beginning, the road stretched ahead like a question she could not answer. In the middle, traffic and footsteps crowded her thoughts. Near the end, familiar voices cut through the noise. She added:\nMy friends call out across the morning.\nThe school gate becomes an open door.\nHer teacher asked what had changed. “At first I am worried,” Mele explained. “By the end I feel ready.”\nThe two metaphors supported that change. A ribbon of questions suggested uncertainty continuing along the road. An open door suggested welcome and possibility.\nMele read her draft aloud. One sentence was too long and made her stumble, so she shortened it. She also removed a line about a barking dog. Although it was a good detail, it did not help explain her emotional journey.\nShe chose the title Between Home and Tomorrow. The poem was about an ordinary walk, but it now carried a meaningful idea: confidence can grow as we move towards the people and places that support us.",
+      "reading_word_count": 340,
+      "target_word_count": [
+        300,
+        400
+      ],
+      "spelling_words": [
+        "imagery",
+        "metaphor",
+        "personification",
+        "structure",
+        "transition",
+        "revision",
+        "perspective",
+        "atmosphere",
+        "interpretation",
+        "intention"
+      ],
+      "spelling_activities": [
+        {
+          "duration": "2 min · Repair spelling",
+          "task": "Correct: personafication, transision, interpretasion, intension, perspectiv.",
+          "key": "personification; transition; interpretation; intention; perspective"
+        },
+        {
+          "duration": "2 min · Term definitions",
+          "task": "Define imagery, metaphor, structure, revision and atmosphere in poetry.",
+          "key": "sensory language; direct comparison; organisation; purposeful improvement; mood"
+        },
+        {
+          "duration": "3 min · Explain the images",
+          "task": "Explain the meanings of “ribbon of questions” and “open door”. Identify how the images mark a transition.",
+          "key": "uncertainty; welcome/opportunity; progression from worry to confidence"
+        },
+        {
+          "duration": "3 min · Mini-revision",
+          "task": "Write a two-line opening and two-line ending about a journey. Revise one word to show a clearer change in emotion.",
+          "key": "Teacher checks meaningful transition and justified revision"
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What is the “heart” of a poem?",
+          "options": [
+            "The number of lines",
+            "Its rhyme scheme",
+            "Its central meaning",
+            "Its title"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What does the teacher want Mele to decide before writing?"
+        },
+        {
+          "question": "Why does the first draft feel empty?",
+          "options": [
+            "It lists events without deeper meaning",
+            "It has too many images",
+            "It has no characters",
+            "It uses the wrong tense"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "What does Mele realise about her feelings on the walk?"
+        },
+        {
+          "question": "What does “a ribbon of questions” suggest?",
+          "options": [
+            "A colourful road",
+            "A school project",
+            "A map",
+            "Uncertainty about the day"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Think about the questions Mele carries while walking."
+        },
+        {
+          "question": "Why does Mele use three stages?",
+          "options": [
+            "To add more words",
+            "To show an emotional journey",
+            "To create rhyme",
+            "To add characters"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Compare her feelings at the beginning and end."
+        },
+        {
+          "question": "What does the open-door image suggest?",
+          "options": [
+            "The school is closed",
+            "Mele is leaving school",
+            "Welcome and possibility",
+            "The gate is broken"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What does an open door often invite someone to do?"
+        },
+        {
+          "question": "Why does Mele read the poem aloud?",
+          "options": [
+            "To find awkward lines",
+            "To remove the cars",
+            "To add rhyme",
+            "To change the setting"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "What problem does she notice while speaking?"
+        },
+        {
+          "question": "What makes the final poem more complete?",
+          "options": [
+            "It describes an unusual event",
+            "It avoids revision",
+            "It follows a compulsory formula",
+            "Its choices develop a meaningful idea"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "How do the images and structure connect?"
+        }
+      ],
+      "written": [
+        {
+          "question": "How does Mele’s understanding of her subject change?",
+          "exemplar": "She shifts from listing features of a route to showing an emotional journey from worry to confidence.",
+          "hint": "What does the walk mean to her?"
+        },
+        {
+          "question": "Explain the ribbon and open-door metaphors.",
+          "exemplar": "The ribbon of questions suggests continuing uncertainty; the open door suggests welcome and possibility.",
+          "hint": "Compare the beginning and ending images."
+        },
+        {
+          "question": "How does the three-stage structure help?",
+          "exemplar": "It moves from leaving home through crowded thoughts to support and confidence at school.",
+          "hint": "What happens to her feelings in each stage?"
+        },
+        {
+          "question": "Why read a draft aloud?",
+          "exemplar": "To hear awkward rhythm and wording that may be difficult to notice silently.",
+          "hint": "What does Mele notice when she speaks?"
+        },
+        {
+          "question": "Name an important difference between drafts.",
+          "exemplar": "The final draft uses connected imagery, meaningful progression and purposeful revision rather than plain description.",
+          "hint": "Compare the first three lines with the ending."
+        }
+      ],
+      "writing_task": "Write 8–12 lines about a journey. Plan beginning, middle and end to show a change in feeling. Use sensory imagery and two figurative comparisons; revise an awkward line after reading aloud.",
+      "reflection": "How does the poem change from its opening to its ending?"
+    },
+    {
+      "id": "W01L05-STORYTELLERS",
+      "week": 1,
+      "lesson": 5,
+      "day": "Friday P3",
+      "group": "Storytellers",
+      "student_visible_level": null,
+      "reading_title": "Threads of Home",
+      "reading": "Jayden's notebook was crowded with descriptions of his neighbourhood. He had written about streetlights, basketball courts, passing cars and the smell of food drifting from family kitchens.\nSome lines sounded beautiful:\nStreetlights are golden moons above the road.\nThe evening wind whispers through open gates.\nLaughter spills across the basketball court.\nYet when Jayden read the poem aloud, the images seemed to pull in different directions. His teacher asked what he wanted to say about his street.\n“That it's busy,” he replied. Then he reconsidered. He remembered neighbours checking on one another during heavy rain, older students helping younger children cross the road and games that brought families together. “Actually, it's about people looking after each other.”\nHe examined a metaphor describing the neighbourhood as a giant machine. It suggested constant movement, but not the relationships he wanted to emphasise. He replaced it:\nOur street is a woven mat,\nEach family another thread.\nThe image suggested separate people connected through shared responsibilities. Jayden knew woven mats held significance in many Pacific families and communities, and he wanted to treat that connection thoughtfully rather than claim everyone's experience was identical.\nHe reorganised his poem into three stanzas. The first described the street's sounds. The second showed people offering help. The third returned to the woven mat:\nEven when one thread loosens,\nOthers reach to hold it close.\nHis teacher asked whether the ending made the community seem too perfect. Jayden thought about disagreements between neighbours and the difficult circumstances some families faced. He added:\nSome threads pull against each other,\nYet still we share the same design.\nThe new lines acknowledged tension without losing the central idea of belonging.\nWhen Jayden read the draft aloud, he noticed that several long lines interrupted its rhythm. He shortened them. He also removed a simile comparing the basketball court to a roaring ocean. He liked that image, but it distracted from the woven-mat metaphor.\n“A good line doesn't always belong in the final poem,” his teacher explained.\nJayden found that difficult. He had spent time creating the ocean comparison. But without it, the poem felt more connected.\nHe titled his final version Threads of Home. The poem was shorter than his first draft, yet it said more. Jayden had learned that strong imagery, structure and rhythm needed to work together. Revision sometimes meant letting go of a favourite line so that the poem's message could be heard.",
+      "reading_word_count": 403,
+      "target_word_count": [
+        400,
+        550
+      ],
+      "spelling_words": [
+        "coherence",
+        "structure",
+        "revision",
+        "connotation",
+        "symbolism",
+        "metaphor",
+        "personification",
+        "perspective",
+        "authenticity",
+        "intention"
+      ],
+      "spelling_activities": [
+        {
+          "duration": "2 min · Word families",
+          "task": "Complete: coherent→___; revise→___; connote→___; authentic→___; intend→___.",
+          "key": "coherence; revision; connotation; authenticity; intention"
+        },
+        {
+          "duration": "2 min · Precision check",
+          "task": "In one sentence each, explain structure, symbolism, metaphor, personification and perspective.",
+          "key": "organisation; representative meaning; direct comparison; human qualities; viewpoint"
+        },
+        {
+          "duration": "3 min · Connotation audit",
+          "task": "What does “woven mat” suggest? What do “threads pull against each other” and “shared design” add?",
+          "key": "connection; disagreement; continuing common belonging"
+        },
+        {
+          "duration": "3 min · Editorial choice",
+          "task": "Write two competing images for a community. Keep the one that best fits a central message, and explain why you rejected the other.",
+          "key": "Teacher checks coherence and a specific editorial rationale"
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What is missing from Jayden’s first draft?",
+          "options": [
+            "A clear central message",
+            "Sensory imagery",
+            "Enough words",
+            "A familiar setting"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "What question does his teacher ask about the neighbourhood?"
+        },
+        {
+          "question": "What does the woven mat represent?",
+          "options": [
+            "The size of the street",
+            "The buildings",
+            "Connected families",
+            "The weather"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What do separate threads create together?"
+        },
+        {
+          "question": "Why does Jayden remove the machine metaphor?",
+          "options": [
+            "He dislikes technology",
+            "It does not emphasise relationships",
+            "Metaphors are forbidden",
+            "It is hard to spell"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Compare the meaning of a machine with a woven mat."
+        },
+        {
+          "question": "Why add “Some threads pull against each other”?",
+          "options": [
+            "To introduce a character",
+            "To change the setting",
+            "To create rhyme",
+            "To acknowledge disagreements"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Does Jayden want the community to seem perfect?"
+        },
+        {
+          "question": "Why does Jayden remove the ocean simile?",
+          "options": [
+            "It distracts from the main metaphor",
+            "It is factually wrong",
+            "It is too short",
+            "It has no figurative language"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "What image holds the poem together?"
+        },
+        {
+          "question": "What makes an edit purposeful?",
+          "options": [
+            "Keeping all striking lines",
+            "Adding more stanzas",
+            "Improving meaning and effect",
+            "Removing every metaphor"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Why does the teacher accept cutting a good line?"
+        },
+        {
+          "question": "What does Jayden learn?",
+          "options": [
+            "Every poem needs strict rhyme",
+            "Techniques must support the central idea",
+            "Poems must have three stanzas",
+            "Poems should avoid complexity"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "What connects the final images and structure?"
+        }
+      ],
+      "written": [
+        {
+          "question": "How does Jayden’s understanding change?",
+          "exemplar": "He moves from seeing a busy street to recognising mutual care and complex community ties.",
+          "hint": "What does he remember about his neighbours?"
+        },
+        {
+          "question": "Analyse the woven-mat metaphor.",
+          "exemplar": "Families are threads: individual but connected, sometimes in tension, contributing to a shared design.",
+          "hint": "What happens when separate threads are woven?"
+        },
+        {
+          "question": "Why does acknowledging disagreement strengthen the poem?",
+          "exemplar": "It makes belonging credible rather than idealised and allows complexity within connection.",
+          "hint": "Does caring for one another mean never disagreeing?"
+        },
+        {
+          "question": "Evaluate removing the ocean simile.",
+          "exemplar": "Although vivid, it competes with the central mat image; removal increases coherence.",
+          "hint": "Can a good image distract from the main message?"
+        },
+        {
+          "question": "How do structure and imagery support meaning?",
+          "exemplar": "Stanzas progress from setting to care to complexity; recurring mat imagery ties these ideas together.",
+          "hint": "Track the three stanzas and the repeated image."
+        }
+      ],
+      "writing_task": "Write 12–16 lines about a place or community. Develop a central metaphor through purposeful stanzas. Include a contrast or complexity; cut or replace one distracting line and explain why.",
+      "reflection": "How do imagery and structure support your central message?"
+    },
+    {
+      "id": "W01L05-LEGENDS",
+      "week": 1,
+      "lesson": 5,
+      "day": "Friday P3",
+      "group": "Legends",
+      "student_visible_level": null,
+      "reading_title": "Platform Between Two Worlds",
+      "reading": "Mele believed good poetry depended on remarkable words. For her first complete poem, she collected striking comparisons: the moon as a silver coin, the city as a sleeping giant and the wind as a restless traveller. Each image sounded impressive alone. Together, they formed a poem without a clear direction.\nDuring a writing conference, her teacher asked what the poem was about.\n“Growing up,” Mele replied.\n“What part of growing up?”\nShe hesitated. She wanted greater independence, yet she feared leaving familiar routines and expectations behind. The teacher suggested that this tension, rather than a collection of decorative images, could organise the poem.\nMele imagined standing on a railway platform while a train prepared to depart. The setting suggested movement, anticipation and uncertainty. She drafted:\nTomorrow is a train with open doors.\nIts engine murmurs promises I cannot read.\nBehind me, yesterday folds its familiar arms.\nThe train represented an unknown future. Yesterday's arms suggested both comfort and the difficulty of leaving familiar things. At last, her images belonged to the same idea.\nHer teacher questioned the word “promises”. A promise implies some assurance. Mele realised that the future offered possibilities, not guarantees. She revised the line:\nIts engine murmurs possibilities without names.\nNext, she planned three stanzas: the approaching future, the familiar past and the moment of departure. Her first ending was confident:\nI step aboard and never look behind.\nBut that line suggested growing up required rejecting the people who had supported her. She wanted independence without disconnection.\nShe tried another ending:\nI carry their voices in my pockets.\nThe platform slips behind the glass.\nI move forward without leaving them behind.\nThe last line explained her message, perhaps too completely. Removing it made the ending more open, but might suggest a permanent separation. Mele experimented again:\nTheir voices travel in the seat beside me.\nRemembered voices could not literally occupy a train seat. Yet the personification suggested that relationships continued even as circumstances changed.\nBefore sharing the poem, Mele checked the rhythm of its three stanzas. Short lines made the train seem to pause; longer sentences carried the speaker towards departure. She kept one deliberate pause before the final image so the audience could feel the uncertainty. She also considered whether every reference to the past was negative. The warm, familiar arms mattered because they showed that attachment and independence could coexist. She decided not to explain the train symbol in the poem itself. Readers could work out its meaning from the platform, doors and movement, while her writer’s note could explain the choices behind it.\nAt a workshop, classmates interpreted the train differently. One saw adulthood; another saw educational opportunity. A third thought the platform represented family expectations. Mele could identify evidence for each reading. Their responses helped her recognise useful ambiguity: a poem could guide interpretation without fixing every meaning.\nHowever, one student thought the speaker was escaping an unhappy home. Mele discovered why. An earlier draft had described yesterday's arms as “chains”. She meant the weight of familiarity, but chains implied imprisonment. Replacing them with “familiar arms” restored the balance of comfort and restriction.\nBy the final draft, Mele had removed more than half her original images. The poem was shorter, more coherent and more emotionally complex. She had discovered that unusual language was not automatically effective language. The best comparisons served the meaning she wanted to communicate.\nRevision was not evidence that the first draft had failed. It was how Mele found the poem beneath the poem.",
+      "reading_word_count": 584,
+      "target_word_count": [
+        550,
+        700
+      ],
+      "spelling_words": [
+        "coherence",
+        "ambiguity",
+        "connotation",
+        "symbolism",
+        "interpretation",
+        "juxtaposition",
+        "revision",
+        "implication",
+        "perspective",
+        "intentionality"
+      ],
+      "spelling_activities": [
+        {
+          "duration": "2 min · Morphology",
+          "task": "Supply a related form: coherent→___; interpret→___; revise→___; imply→___; intend→___.",
+          "key": "coherence; interpretation; revision; implication; intentionality"
+        },
+        {
+          "duration": "2 min · Vocabulary distinctions",
+          "task": "Distinguish ambiguity, connotation, symbolism, juxtaposition and perspective in one phrase each.",
+          "key": "multiple supported meanings; associations; representative image; placed contrast; viewpoint"
+        },
+        {
+          "duration": "3 min · Word choice",
+          "task": "Compare “promises” with “possibilities”; then describe how the two choices alter the reader’s expectations.",
+          "key": "promises implies guarantee; possibilities permits uncertainty"
+        },
+        {
+          "duration": "3 min · Editorial judgement",
+          "task": "Write two endings: one explicit, one figuratively open. Explain how each might change a reader’s interpretation.",
+          "key": "Teacher checks a clear contrast and purposeful evaluation"
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What is wrong with Mele’s original images?",
+          "options": [
+            "They are all literal",
+            "They are grammatically wrong",
+            "They lack a coherent idea",
+            "They contain no description"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Do the striking comparisons develop one message?"
+        },
+        {
+          "question": "Which tension organises the new poem?",
+          "options": [
+            "Independence and familiar connections",
+            "Anger and forgiveness",
+            "Competition and friendship",
+            "Pride and embarrassment"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Find what Mele both wants and fears."
+        },
+        {
+          "question": "Why does Mele choose the train?",
+          "options": [
+            "She takes it every day",
+            "She studies transport",
+            "She wants to leave home permanently",
+            "It suggests movement and uncertainty"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "What can a departing train represent beyond travel?"
+        },
+        {
+          "question": "Why replace “promises” with “possibilities”?",
+          "options": [
+            "It creates rhyme",
+            "It avoids implying a guarantee",
+            "It shortens the line",
+            "It removes metaphor"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Which noun sounds more certain?"
+        },
+        {
+          "question": "Why reject “never look behind”?",
+          "options": [
+            "It makes the poem too long",
+            "It makes the train unsafe",
+            "It implies rejecting the past",
+            "It repeats an image"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Does Mele want independence without connection?"
+        },
+        {
+          "question": "What does the travelling-voices image imply?",
+          "options": [
+            "Relationships can continue across change",
+            "Family members board the train",
+            "Strangers are talking",
+            "The train is crowded"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Can remembered voices literally sit beside someone?"
+        },
+        {
+          "question": "Why does class feedback help?",
+          "options": [
+            "It proves one correct reading",
+            "It eliminates ambiguity",
+            "It supplies historical facts",
+            "It reveals plausible and unintended meanings"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "What does Mele discover about “chains”?"
+        },
+        {
+          "question": "Why change “chains” to “familiar arms”?",
+          "options": [
+            "To remove personification",
+            "To balance comfort and restriction",
+            "To introduce rhyme",
+            "To erase the past"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "What feeling does the word chains add?"
+        },
+        {
+          "question": "What is the main lesson about revision?",
+          "options": [
+            "It corrects spelling only",
+            "It makes poems longer",
+            "It clarifies intended meaning",
+            "It prevents different readings"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "What does Mele learn from removing images?"
+        }
+      ],
+      "written": [
+        {
+          "question": "How does the train metaphor create coherence?",
+          "exemplar": "It unites departure, uncertain future, remembered past and continued relationships in one extended scene.",
+          "hint": "Track train, platform and voices."
+        },
+        {
+          "question": "Compare promises and possibilities.",
+          "exemplar": "Promises suggests assurance; possibilities suggests opportunities without guaranteed outcomes.",
+          "hint": "Which word carries more certainty?"
+        },
+        {
+          "question": "Evaluate the travelling-voices ending.",
+          "exemplar": "It implies emotional connection through personification without directly explaining the whole message.",
+          "hint": "Can a memory accompany a person figuratively?"
+        },
+        {
+          "question": "What does feedback reveal about intention and interpretation?",
+          "exemplar": "Readers find supported meanings Mele did not plan and identify an unintended suggestion of imprisonment in chains.",
+          "hint": "Which word created a mistaken impression?"
+        },
+        {
+          "question": "Why remove attractive images?",
+          "exemplar": "They do not serve the central idea; removing them improves coherence and precision.",
+          "hint": "Were all the original comparisons related to growing up?"
+        },
+        {
+          "question": "Are unusual images always effective? Defend your view.",
+          "exemplar": "No: language is effective when it serves the intended meaning; the train scene is more coherent than unrelated striking images.",
+          "hint": "Compare the original collection with the final poem."
+        }
+      ],
+      "writing_task": "Write 16–24 lines about a tension between two emotions or choices. Use an extended metaphor, personification and deliberate ambiguity. Revise two language choices and annotate their connotations.",
+      "reflection": "Which revision best aligns your intended message with possible reader interpretations?"
+    }
+  ]
+}

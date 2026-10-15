@@ -1,0 +1,6 @@
+group,word_count,target_min,target_max,reading_pass,spelling_words,spelling_activities,mcq,written,total_questions,hints,answers,status
+Pioneers,207,150,220,PASS,10,4,5,3,8,8,8,CONTENT CHECK PASSED
+Creators,262,220,300,PASS,10,4,6,4,10,10,10,CONTENT CHECK PASSED
+Visionaries,340,300,400,PASS,10,4,7,5,12,12,12,CONTENT CHECK PASSED
+Storytellers,403,400,550,PASS,10,4,7,5,12,12,12,CONTENT CHECK PASSED
+Legends,584,550,700,PASS,10,4,9,6,15,15,15,CONTENT CHECK PASSED

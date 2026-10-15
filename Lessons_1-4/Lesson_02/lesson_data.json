@@ -1,0 +1,977 @@
+{
+  "lesson_title": "Rhythm and Rhyme",
+  "day": "Tuesday P2",
+  "learning_intention": "Identify rhythm and rhyme, then use sound to communicate mood.",
+  "timings": {
+    "discover": 5,
+    "spelling": 10,
+    "reading": 25,
+    "writing": 15,
+    "reflection": 5
+  },
+  "experiences": [
+    {
+      "id": "W01L02-PIONEERS",
+      "week": 1,
+      "lesson": 2,
+      "day": "Tuesday P2",
+      "group": "Pioneers",
+      "reading_title": "The Beat at Break Time",
+      "reading": "At morning break, Sione bounced a basketball beside the court. Boom, boom, bounce. Levi tapped his shoes to the beat. Aroha called, “Ball, wall, tall!” The words sounded alike at the end. “That's rhyme,” she said. Sione tried a poem: “The ball goes high. It reaches the sky.” He liked the matching sounds, but the poem did not tell the whole story. He added a line about his friend missing the hoop and everyone laughing. When he read it aloud, the new line felt too long. He cut out three words. Now the beat was easier to follow. His teacher explained that rhythm is the pattern of sounds and stresses in words. Rhyme happens when words share ending sounds. A poem can have rhythm without rhyme. Sione tried clapping as he read. He changed one word so the line matched his claps. The finished poem sounded like a quick game. Sione decided to call it “Break-Time Bounce.”  Levi asked if the poem needed the words “ball” and “wall” in every line. Sione said no. He wanted the words to sound good and make sense. They clapped the ending together before running back to play.",
+      "reading_word_count": 194,
+      "target_word_count": [
+        150,
+        220
+      ],
+      "vocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "Similarity of ending sounds"
+        },
+        {
+          "word": "rhythm",
+          "definition": "A pattern of beats or stresses"
+        },
+        {
+          "word": "beat",
+          "definition": "A regular pulse"
+        },
+        {
+          "word": "bounce",
+          "definition": "To spring back from a surface"
+        },
+        {
+          "word": "clap",
+          "definition": "To strike hands together"
+        },
+        {
+          "word": "sound",
+          "definition": "Something heard"
+        },
+        {
+          "word": "high",
+          "definition": "Far above the ground"
+        },
+        {
+          "word": "sky",
+          "definition": "Space seen above the earth"
+        },
+        {
+          "word": "pattern",
+          "definition": "Something that repeats in a recognisable way"
+        },
+        {
+          "word": "repeat",
+          "definition": "To do or say again"
+        }
+      ],
+      "spelling_activities": [
+        {
+          "minutes": 2,
+          "name": "Recall and spell",
+          "instruction": "Look at these five words for 30 seconds, hide them, then spell them from memory: rhyme, rhythm, beat, bounce, clap. Check and correct each spelling.",
+          "teacher_key": "rhyme, rhythm, beat, bounce, clap"
+        },
+        {
+          "minutes": 2,
+          "name": "Match definitions",
+          "instruction": "Match each word to its meaning: 6. sound; 7. high; 8. sky; 9. pattern; 10. repeat. Meanings (mixed order): To do or say again; Something that repeats in a recognisable way; Space seen above the earth; Far above the ground; Something heard",
+          "teacher_key": "sound = Something heard; high = Far above the ground; sky = Space seen above the earth; pattern = Something that repeats in a recognisable way; repeat = To do or say again"
+        },
+        {
+          "minutes": 3,
+          "name": "Find the technique in context",
+          "instruction": "Read the section of “The Beat at Break Time” where the writer makes a significant language choice. Quote one exact word or short phrase from the passage and explain how it supports today’s focus: Rhythm and Rhyme.",
+          "teacher_key": "Accept a verbatim, relevant passage quotation with an accurate explanation of its effect."
+        },
+        {
+          "minutes": 3,
+          "name": "Use and improve",
+          "instruction": "Write two sentences about the reading using at least three of today’s ten words correctly. Underline the words, then revise one sentence to make its meaning more precise.",
+          "teacher_key": "Check correct spelling, contextual meaning, three vocabulary uses and one genuine improvement."
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What makes the beat at break?",
+          "options": [
+            "A door",
+            "A clock",
+            "A bouncing ball",
+            "A bus"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What makes the beat at break”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Which words rhyme?",
+          "options": [
+            "Ball and bus",
+            "Ball and court",
+            "Sky and shoe",
+            "Ball and wall"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “Which words rhyme”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What is rhythm?",
+          "options": [
+            "A pattern of sounds and stresses",
+            "A picture",
+            "A title",
+            "A paragraph"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “What is rhythm”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why shorten a line?",
+          "options": [
+            "To add facts",
+            "To make the beat easier to follow",
+            "To change the sport",
+            "To add a character"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “Why shorten a line”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does Sione learn about rhyme?",
+          "options": [
+            "Every line needs it",
+            "It is the same as rhythm",
+            "A poem can have rhythm without rhyme",
+            "It replaces meaning"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What does Sione learn about rhyme”. Which option is supported by a specific detail there?"
+        }
+      ],
+      "written": [
+        {
+          "question": "Name two rhyming words.",
+          "exemplar": "Ball and wall, or high and sky.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Explain rhythm in your own words.",
+          "exemplar": "The pattern or beat made by spoken words.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Why does Sione shorten a line?",
+          "exemplar": "So the beat is easier to clap and read.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        }
+      ],
+      "writing_task": "Write 4–6 lines about a game or movement. Include one rhyme pair and a beat you can clap.",
+      "reflection": "Which line helps a reader imagine your experience?"
+    },
+    {
+      "id": "W01L02-CREATORS",
+      "week": 1,
+      "lesson": 2,
+      "day": "Tuesday P2",
+      "group": "Creators",
+      "reading_title": "The Rhythm of Our Street",
+      "reading": "Mele heard a familiar rhythm each afternoon as she walked home. A gate clicked. A dog barked twice. A bus stopped with a long hiss. Children called across the road. She decided to turn the sounds into a poem. Her first version rhymed every pair of lines, but she had to use awkward words to make the endings match. Her cousin read it and asked why a dog was described as a “royal frog”. Mele laughed. She had chosen “frog” only because it rhymed with “dog”. She rewrote the verse, keeping the sound pattern but using words that made sense. “The gate clicks shut. Two paws race by. A bus sighs under the evening sky.” Some lines rhymed; others did not. Mele clapped while reading and noticed that the short line about the gate sounded sharp, while the longer bus line slowed the pace. She understood that rhythm could suggest movement and mood. She chose not to force another rhyme into the ending. Instead, she repeated “home” twice to show where the sounds were leading her. Her final poem felt like her own street, not a collection of words chosen only for their endings.  Her teacher asked the class to tap the beat of two versions. Students could keep time with the shorter opening, but they slowed down during the bus line. Mele said that was exactly what she wanted: the walk home was busy at first, then calmer near her gate. The repeated word “home” made the ending feel settled rather than rushed.",
+      "reading_word_count": 254,
+      "target_word_count": [
+        220,
+        300
+      ],
+      "vocabulary": [
+        {
+          "word": "rhythm",
+          "definition": "A pattern of beats or stresses"
+        },
+        {
+          "word": "rhyme",
+          "definition": "Similarity of ending sounds"
+        },
+        {
+          "word": "repetition",
+          "definition": "Using words or sounds again"
+        },
+        {
+          "word": "pace",
+          "definition": "The speed of reading or movement"
+        },
+        {
+          "word": "pattern",
+          "definition": "Something that repeats in a recognisable way"
+        },
+        {
+          "word": "syllable",
+          "definition": "A beat-like unit in a spoken word"
+        },
+        {
+          "word": "meaning",
+          "definition": "What words or images communicate"
+        },
+        {
+          "word": "revise",
+          "definition": "To improve a draft"
+        },
+        {
+          "word": "ending",
+          "definition": "The final part"
+        },
+        {
+          "word": "atmosphere",
+          "definition": "The mood of a place or text"
+        }
+      ],
+      "spelling_activities": [
+        {
+          "minutes": 2,
+          "name": "Recall and spell",
+          "instruction": "Look at these five words for 30 seconds, hide them, then spell them from memory: rhythm, rhyme, repetition, pace, pattern. Check and correct each spelling.",
+          "teacher_key": "rhythm, rhyme, repetition, pace, pattern"
+        },
+        {
+          "minutes": 2,
+          "name": "Match definitions",
+          "instruction": "Match each word to its meaning: 6. syllable; 7. meaning; 8. revise; 9. ending; 10. atmosphere. Meanings (mixed order): The mood of a place or text; The final part; To improve a draft; What words or images communicate; A beat-like unit in a spoken word",
+          "teacher_key": "syllable = A beat-like unit in a spoken word; meaning = What words or images communicate; revise = To improve a draft; ending = The final part; atmosphere = The mood of a place or text"
+        },
+        {
+          "minutes": 3,
+          "name": "Find the technique in context",
+          "instruction": "Read the section of “The Rhythm of Our Street” where the writer makes a significant language choice. Quote one exact word or short phrase from the passage and explain how it supports today’s focus: Rhythm and Rhyme.",
+          "teacher_key": "Accept a verbatim, relevant passage quotation with an accurate explanation of its effect."
+        },
+        {
+          "minutes": 3,
+          "name": "Use and improve",
+          "instruction": "Write two sentences about the reading using at least three of today’s ten words correctly. Underline the words, then revise one sentence to make its meaning more precise.",
+          "teacher_key": "Check correct spelling, contextual meaning, three vocabulary uses and one genuine improvement."
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What sound does Mele hear?",
+          "options": [
+            "An ocean",
+            "A stadium",
+            "A train bell",
+            "A gate clicking"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “What sound does Mele hear”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why is royal frog awkward?",
+          "options": [
+            "It was chosen only to rhyme",
+            "It is a true detail",
+            "It improves meaning",
+            "It describes the bus"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “Why is royal frog awkward”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does the longer bus line do?",
+          "options": [
+            "Speed up the poem",
+            "Slow its pace",
+            "Change the setting",
+            "Create a character"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “does the longer bus line do”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What word is repeated at the end?",
+          "options": [
+            "Street",
+            "Bus",
+            "Home",
+            "Dog"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “word is repeated at the end”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why avoid forced rhyme?",
+          "options": [
+            "It is illegal",
+            "It cannot be read",
+            "It must be sung",
+            "It can damage meaning"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “Why avoid forced rhyme”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does the repeated word suggest?",
+          "options": [
+            "A settled arrival",
+            "A new argument",
+            "A different city",
+            "An accident"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “What does the repeated word suggest”. Which option is supported by a specific detail there?"
+        }
+      ],
+      "written": [
+        {
+          "question": "Why is royal frog a poor rhyme?",
+          "exemplar": "It does not make sense in the street scene and exists only to rhyme.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "How does the long bus line affect pace?",
+          "exemplar": "It slows the reading, matching the calmer part of the walk.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "What does repeating home achieve?",
+          "exemplar": "It emphasises arrival and a settled feeling.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "How can a poem use rhythm without rhyming every line?",
+          "exemplar": "Through line length, stresses, pauses and repeated words.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        }
+      ],
+      "writing_task": "Write 6–8 lines about sounds on your street. Use some rhyme, one repetition and a change in pace.",
+      "reflection": "Which word or image did you improve, and why?"
+    },
+    {
+      "id": "W01L02-VISIONARIES",
+      "week": 1,
+      "lesson": 2,
+      "day": "Tuesday P2",
+      "group": "Visionaries",
+      "reading_title": "When the Beat Changes",
+      "reading": "Jayden practised a short poem before rugby training. He wanted the opening to sound energetic, so he used brief phrases: “Run. Turn. Pass. Go.” Each word landed like a footstep. Then he wrote a longer line about waiting for the whistle. When he performed the poem, the change in pace made his teammates look up. His teacher had explained that rhythm came from stressed syllables, pauses and repeated patterns, not just rhyming endings. Jayden experimented with three versions. In the first, every line rhymed, but the message felt predictable. In the second, the lines were all the same length and sounded flat. In the third, he used short lines for action and a deliberate pause before the final whistle. He added the internal rhyme “fast past the last defender”, but removed another rhyme that distracted from the play. One teammate said the pause felt like the moment before a kick. Jayden realised that sound could imitate experience. The poem's rhythm was not merely a beat to keep listeners entertained; it shaped how they felt time passing. He revised the final stanza to slow down after the game, when the players were tired and the field became quiet. The contrast made the earlier speed more noticeable.  At training, Jayden asked a teammate to read the poem without seeing his performance notes. The teammate rushed the waiting line, so Jayden added a line break before “whistle”. He learned that the printed page could suggest a pause even when he was not there to perform it. He kept the repeated action verbs because their hard sounds suited the quick movement of the game.  He compared the sound of the opening with the end by tapping each line on his knee. The first stanza had quick stresses; the final stanza stretched its vowels and included more pauses. The contrast helped listeners hear the shift from effort to rest. He decided not to add a rhyme simply because one was available.",
+      "reading_word_count": 326,
+      "target_word_count": [
+        300,
+        400
+      ],
+      "vocabulary": [
+        {
+          "word": "rhythm",
+          "definition": "A pattern of beats or stresses"
+        },
+        {
+          "word": "emphasis",
+          "definition": "Extra stress or attention"
+        },
+        {
+          "word": "internal",
+          "definition": "Located inside something"
+        },
+        {
+          "word": "refrain",
+          "definition": "A repeated phrase or line"
+        },
+        {
+          "word": "stress",
+          "definition": "Extra force given to a spoken syllable"
+        },
+        {
+          "word": "syllable",
+          "definition": "A beat-like unit in a spoken word"
+        },
+        {
+          "word": "performance",
+          "definition": "Presenting a work aloud or through action"
+        },
+        {
+          "word": "contrast",
+          "definition": "A noticeable difference"
+        },
+        {
+          "word": "pause",
+          "definition": "A deliberate stop"
+        },
+        {
+          "word": "revision",
+          "definition": "Purposeful improvement of a draft"
+        }
+      ],
+      "spelling_activities": [
+        {
+          "minutes": 2,
+          "name": "Recall and spell",
+          "instruction": "Look at these five words for 30 seconds, hide them, then spell them from memory: rhythm, emphasis, internal, refrain, stress. Check and correct each spelling.",
+          "teacher_key": "rhythm, emphasis, internal, refrain, stress"
+        },
+        {
+          "minutes": 2,
+          "name": "Match definitions",
+          "instruction": "Match each word to its meaning: 6. syllable; 7. performance; 8. contrast; 9. pause; 10. revision. Meanings (mixed order): Purposeful improvement of a draft; A deliberate stop; A noticeable difference; Presenting a work aloud or through action; A beat-like unit in a spoken word",
+          "teacher_key": "syllable = A beat-like unit in a spoken word; performance = Presenting a work aloud or through action; contrast = A noticeable difference; pause = A deliberate stop; revision = Purposeful improvement of a draft"
+        },
+        {
+          "minutes": 3,
+          "name": "Find the technique in context",
+          "instruction": "Read the section of “When the Beat Changes” where the writer makes a significant language choice. Quote one exact word or short phrase from the passage and explain how it supports today’s focus: Rhythm and Rhyme.",
+          "teacher_key": "Accept a verbatim, relevant passage quotation with an accurate explanation of its effect."
+        },
+        {
+          "minutes": 3,
+          "name": "Use and improve",
+          "instruction": "Write two sentences about the reading using at least three of today’s ten words correctly. Underline the words, then revise one sentence to make its meaning more precise.",
+          "teacher_key": "Check correct spelling, contextual meaning, three vocabulary uses and one genuine improvement."
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What activity shapes the poem?",
+          "options": [
+            "Cooking",
+            "Rugby training",
+            "Gardening",
+            "Travelling"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “What activity shapes the poem”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What is the opening pattern?",
+          "options": [
+            "Long explanations",
+            "Slow sentences",
+            "Short action words",
+            "Repeated questions"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What is the opening pattern”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why pause before whistle?",
+          "options": [
+            "To create a rhyme",
+            "To introduce a person",
+            "To name a place",
+            "To imitate anticipation"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “Why pause before whistle”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does the internal rhyme emphasise?",
+          "options": [
+            "Fast movement",
+            "A quiet room",
+            "A long wait",
+            "A family memory"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “What does the internal rhyme emphasise”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why remove a distracting rhyme?",
+          "options": [
+            "To add a fact",
+            "It competes with the action",
+            "To change tense",
+            "It is too short"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “Why remove a distracting rhyme”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "How does the ending change?",
+          "options": [
+            "It becomes louder",
+            "It introduces a game",
+            "It slows towards rest",
+            "It starts a new scene"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “How does the ending change”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What helps a reader notice the pause?",
+          "options": [
+            "A colour word",
+            "A simile",
+            "A repeated name",
+            "A line break"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “helps a reader notice the pause”. Which option is supported by a specific detail there?"
+        }
+      ],
+      "written": [
+        {
+          "question": "How do short action words shape the opening?",
+          "exemplar": "They imitate quick rugby movements and create a driving beat.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "What effect does the pause before whistle have?",
+          "exemplar": "It recreates anticipation before play begins.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Why remove an internal or end rhyme that distracts?",
+          "exemplar": "A sound pattern should support the action rather than draw attention away.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Compare the opening and ending rhythms.",
+          "exemplar": "The opening is quick; the ending slows as the players rest.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "How does a line break help a silent reader?",
+          "exemplar": "It signals a pause even without a live performance.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        }
+      ],
+      "writing_task": "Write 8–12 lines using fast and slow rhythms to show two stages of an event. Add a purposeful pause.",
+      "reflection": "How do your choices help a reader infer a deeper meaning?"
+    },
+    {
+      "id": "W01L02-STORYTELLERS",
+      "week": 1,
+      "lesson": 2,
+      "day": "Tuesday P2",
+      "group": "Storytellers",
+      "reading_title": "The Sound of a Story",
+      "reading": "Jayden sat in a hospital waiting room while his aunt received treatment. A clock ticked above the reception desk. Shoes moved quietly along the corridor. Every few minutes, a trolley rattled past. He tried to write a poem, but his first lines all ended in cheerful rhymes. They sounded wrong for the room. He crossed them out and listened to the clock again. “Tick. Wait. Tick.” The short words seemed to make time move slowly. He followed them with a longer sentence about the bright corridor stretching beyond the doors. The shift in rhythm reflected how waiting could feel both still and endless. When his aunt returned with reassuring news, Jayden wanted the poem to change. He used a smoother sequence of sounds and a line that flowed without interruption. His teacher later explained that a poet's rhythm could follow emotional movement. Rhyme might create expectation, but it could also sound forced or inappropriate if it conflicted with the subject. Jayden considered adding a perfect rhyme to the final line. Instead, he repeated the word “breath”. The repetition linked the tense beginning to the calmer ending. A classmate noticed that the poem did not describe every medical detail. It focused on the experience of waiting. Jayden felt that was right. The pauses and changing pace communicated what a factual report could not.  Later Jayden noticed that he had written three long sentences in the middle of the poem. They made the waiting feel endless, but one contained an unnecessary detail about a poster on the wall. He removed that detail while keeping the longer rhythm. He also tried the poem with no punctuation and found that the emotional turn became unclear. A full stop before the news helped the reader sense a change. He kept the final repetition because it echoed the earlier anxiety without repeating the same feeling.  The teacher invited students to explain how the poem might sound if every line had the same number of beats. Jayden imagined a steady march, which would make the uncertainty seem controlled. His actual poem needed uneven timing because waiting had felt unpredictable. He noticed that the phrase “Tick. Wait. Tick.” also created a pattern that readers could anticipate. Breaking it later made the reassuring news feel like a genuine interruption. When his aunt read the poem, she said the repeated word “breath” captured the relief more clearly than a sentence stating that everyone was happy. Jayden understood that a sound pattern could carry an emotional argument.",
+      "reading_word_count": 416,
+      "target_word_count": [
+        400,
+        550
+      ],
+      "vocabulary": [
+        {
+          "word": "rhythm",
+          "definition": "A pattern of beats or stresses"
+        },
+        {
+          "word": "refrain",
+          "definition": "A repeated phrase or line"
+        },
+        {
+          "word": "punctuation",
+          "definition": "Marks guiding reading and meaning"
+        },
+        {
+          "word": "tension",
+          "definition": "A feeling of strain or uncertainty"
+        },
+        {
+          "word": "repetition",
+          "definition": "Using words or sounds again"
+        },
+        {
+          "word": "tempo",
+          "definition": "Speed of a rhythm"
+        },
+        {
+          "word": "contrast",
+          "definition": "A noticeable difference"
+        },
+        {
+          "word": "cadence",
+          "definition": "The rise, fall and movement of speech"
+        },
+        {
+          "word": "pause",
+          "definition": "A deliberate stop"
+        },
+        {
+          "word": "interpretation",
+          "definition": "An evidence-based explanation of meaning"
+        }
+      ],
+      "spelling_activities": [
+        {
+          "minutes": 2,
+          "name": "Recall and spell",
+          "instruction": "Look at these five words for 30 seconds, hide them, then spell them from memory: rhythm, refrain, punctuation, tension, repetition. Check and correct each spelling.",
+          "teacher_key": "rhythm, refrain, punctuation, tension, repetition"
+        },
+        {
+          "minutes": 2,
+          "name": "Match definitions",
+          "instruction": "Match each word to its meaning: 6. tempo; 7. contrast; 8. cadence; 9. pause; 10. interpretation. Meanings (mixed order): An evidence-based explanation of meaning; A deliberate stop; The rise, fall and movement of speech; A noticeable difference; Speed of a rhythm",
+          "teacher_key": "tempo = Speed of a rhythm; contrast = A noticeable difference; cadence = The rise, fall and movement of speech; pause = A deliberate stop; interpretation = An evidence-based explanation of meaning"
+        },
+        {
+          "minutes": 3,
+          "name": "Find the technique in context",
+          "instruction": "Read the section of “The Sound of a Story” where the writer makes a significant language choice. Quote one exact word or short phrase from the passage and explain how it supports today’s focus: Rhythm and Rhyme.",
+          "teacher_key": "Accept a verbatim, relevant passage quotation with an accurate explanation of its effect."
+        },
+        {
+          "minutes": 3,
+          "name": "Use and improve",
+          "instruction": "Write two sentences about the reading using at least three of today’s ten words correctly. Underline the words, then revise one sentence to make its meaning more precise.",
+          "teacher_key": "Check correct spelling, contextual meaning, three vocabulary uses and one genuine improvement."
+        }
+      ],
+      "mcq": [
+        {
+          "question": "Where is Jayden waiting?",
+          "options": [
+            "In a hospital",
+            "At a stadium",
+            "In a garden",
+            "At a market"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “Where is Jayden waiting”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why reject cheerful rhymes?",
+          "options": [
+            "They are too difficult",
+            "They conflict with the mood",
+            "They name a person",
+            "They are factual"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “Why reject cheerful rhymes”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does Tick Wait Tick suggest?",
+          "options": [
+            "A quick celebration",
+            "A busy game",
+            "Slow, tense waiting",
+            "A journey home"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What does Tick Wait Tick suggest”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why change the pace later?",
+          "options": [
+            "To change the setting",
+            "To add characters",
+            "To make the poem longer",
+            "To reflect reassuring news"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “Why change the pace later”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What word is repeated?",
+          "options": [
+            "Breath",
+            "Clock",
+            "News",
+            "Room"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “What word is repeated”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why keep uneven timing?",
+          "options": [
+            "It creates a regular march",
+            "It reflects unpredictable waiting",
+            "It makes a perfect rhyme",
+            "It avoids pauses"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “Why keep uneven timing”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does punctuation help signal?",
+          "options": [
+            "A new narrator",
+            "A different season",
+            "An emotional turn",
+            "A new location"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What does punctuation help signal”. Which option is supported by a specific detail there?"
+        }
+      ],
+      "written": [
+        {
+          "question": "Why do cheerful rhymes feel wrong in the waiting room?",
+          "exemplar": "They clash with Jayden’s worry and the serious setting.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Analyse Tick Wait Tick.",
+          "exemplar": "Short repeated beats make waiting feel tense and slow.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "How does the poem’s rhythm change with the news?",
+          "exemplar": "The lines flow more smoothly to reflect relief.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Why repeat breath at the end?",
+          "exemplar": "It connects the tense opening with the calmer ending.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Evaluate the decision to keep uneven timing.",
+          "exemplar": "It reflects unpredictable waiting more accurately than a steady march.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        }
+      ],
+      "writing_task": "Write 12–16 lines that move from tension to relief. Use repetition and varied line lengths; explain why you avoid or include rhyme.",
+      "reflection": "How do your imagery and structure work together?"
+    },
+    {
+      "id": "W01L02-LEGENDS",
+      "week": 1,
+      "lesson": 2,
+      "day": "Tuesday P2",
+      "group": "Legends",
+      "reading_title": "When Rhythm Becomes Meaning",
+      "reading": "Mele listened to an old radio recording of a spoken-word performance. The speaker began with a regular beat, then stopped unexpectedly before one important word. The silence drew more attention than a louder voice might have done. Mele wanted to understand why. She marked the stressed syllables in the opening lines and noticed that the pattern made the audience expect a continuation. Breaking the pattern created tension. She experimented with a poem about receiving difficult news. Her first draft used end rhyme in every line. Although the sounds were neat, the predictable pattern made the subject feel strangely light. She removed several rhymes and kept a repeated phrase: “I waited.” Each repetition had a different number of words after it. The phrase became a measure of time rather than a decorative refrain. She then placed a single-word line after a long sentence. Reading it aloud, she noticed how the sudden stop changed her breathing. Her teacher asked whether that effect would remain for a reader who never heard the poem performed. Mele examined the page. Line breaks and punctuation provided visual clues, but they could not control every reader's pace. She added a dash where the pause mattered most and removed one unnecessary comma. A classmate read the poem with a different emphasis and created a slightly different meaning. Mele accepted that rhythm was partly shaped by the reader. They discussed how musicality, repetition, stress and silence could influence interpretation without determining it completely. Mele also compared the sound of her poem with a prose account of the same event. The prose conveyed the sequence efficiently; the poem made the waiting feel prolonged. By the final draft, she understood that rhythm was not simply an ornament or a requirement to rhyme. It was a method of organising emotional experience in time.  For the workshop presentation, Mele asked two classmates to perform the same stanza. One paused after “waited”; the other stressed the final word. Their readings suggested different degrees of resignation. Mele revised the punctuation to make her preferred emphasis more likely, while recognising she could not dictate every performance. She also tested the poem with a quiet spoken delivery rather than an exaggerated dramatic voice. The quieter version made the repeated phrase sound more personal. She concluded that performance choices were part of the poem's interpretation, not an optional layer added after writing.  Mele questioned whether repeated words always strengthened a poem. She found that using “I waited” too often made the refrain lose force. She removed one repetition and left a space where listeners expected it. The absence created its own emphasis. She also tried ending the poem with a neat couplet, but the perfect rhyme suggested an emotional resolution that the experience did not offer. She kept an unrhymed ending. Her teacher observed that deliberate irregularity could be as controlled as a regular beat, provided the writer understood its effect. Mele annotated the final draft with performance choices: slow at the opening, restrained through the middle, and a longer silence after the last line. Those decisions connected the poem's form to its meaning.  At the end, Mele compared the recording with her written poem once more. The recording allowed the performer to control the silence directly, while the page relied on lineation and punctuation to invite a pause. She did not rank one medium above the other. Instead, she revised each for its audience. She also noticed that a listener could hear hesitation in the voice, while a reader might infer it from a broken line. Both experiences depended on rhythm, but they offered different kinds of evidence. That distinction helped her prepare a performance that respected the written poem without simply repeating it mechanically.",
+      "reading_word_count": 618,
+      "target_word_count": [
+        550,
+        700
+      ],
+      "vocabulary": [
+        {
+          "word": "cadence",
+          "definition": "The rise, fall and movement of speech"
+        },
+        {
+          "word": "lineation",
+          "definition": "How words are arranged into poetic lines"
+        },
+        {
+          "word": "refrain",
+          "definition": "A repeated phrase or line"
+        },
+        {
+          "word": "enjambment",
+          "definition": "A sentence continuing past a line break"
+        },
+        {
+          "word": "emphasis",
+          "definition": "Extra stress or attention"
+        },
+        {
+          "word": "prosody",
+          "definition": "Patterns of stress, rhythm and intonation in language"
+        },
+        {
+          "word": "repetition",
+          "definition": "Using words or sounds again"
+        },
+        {
+          "word": "resonance",
+          "definition": "A lingering emotional or associative effect"
+        },
+        {
+          "word": "interpretation",
+          "definition": "An evidence-based explanation of meaning"
+        },
+        {
+          "word": "deliberate",
+          "definition": "Done intentionally"
+        }
+      ],
+      "spelling_activities": [
+        {
+          "minutes": 2,
+          "name": "Recall and spell",
+          "instruction": "Look at these five words for 30 seconds, hide them, then spell them from memory: cadence, lineation, refrain, enjambment, emphasis. Check and correct each spelling.",
+          "teacher_key": "cadence, lineation, refrain, enjambment, emphasis"
+        },
+        {
+          "minutes": 2,
+          "name": "Match definitions",
+          "instruction": "Match each word to its meaning: 6. prosody; 7. repetition; 8. resonance; 9. interpretation; 10. deliberate. Meanings (mixed order): Done intentionally; An evidence-based explanation of meaning; A lingering emotional or associative effect; Using words or sounds again; Patterns of stress, rhythm and intonation in language",
+          "teacher_key": "prosody = Patterns of stress, rhythm and intonation in language; repetition = Using words or sounds again; resonance = A lingering emotional or associative effect; interpretation = An evidence-based explanation of meaning; deliberate = Done intentionally"
+        },
+        {
+          "minutes": 3,
+          "name": "Find the technique in context",
+          "instruction": "Read the section of “When Rhythm Becomes Meaning” where the writer makes a significant language choice. Quote one exact word or short phrase from the passage and explain how it supports today’s focus: Rhythm and Rhyme.",
+          "teacher_key": "Accept a verbatim, relevant passage quotation with an accurate explanation of its effect."
+        },
+        {
+          "minutes": 3,
+          "name": "Use and improve",
+          "instruction": "Write two sentences about the reading using at least three of today’s ten words correctly. Underline the words, then revise one sentence to make its meaning more precise.",
+          "teacher_key": "Check correct spelling, contextual meaning, three vocabulary uses and one genuine improvement."
+        }
+      ],
+      "mcq": [
+        {
+          "question": "What first attracts Mele’s attention?",
+          "options": [
+            "A drawing",
+            "A title",
+            "A photograph",
+            "A pause in spoken word"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “What first attracts Mele’s attention”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does breaking a regular beat create?",
+          "options": [
+            "Tension",
+            "A setting",
+            "A character",
+            "A rhyme"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “does breaking a regular beat create”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why remove neat end rhymes?",
+          "options": [
+            "They are incorrect",
+            "They make the serious subject sound too light",
+            "They are too long",
+            "They name places"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “Why remove neat end rhymes”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What is the refrain?",
+          "options": [
+            "The radio",
+            "A new day",
+            "I waited",
+            "Come home"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “What is the refrain”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does a single-word line do?",
+          "options": [
+            "Add a character",
+            "Explain the setting",
+            "Make a joke",
+            "Change breathing and emphasis"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “What does a single-word line do”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why add a dash?",
+          "options": [
+            "To suggest an important pause",
+            "To count syllables",
+            "To change the speaker",
+            "To force rhyme"
+          ],
+          "correct_option_index": 0,
+          "correct_option_letter": "A",
+          "hint": "Return to the passage section relevant to “Why add a dash”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "What does another reader’s performance show?",
+          "options": [
+            "There is only one pace",
+            "Readers can shape emphasis",
+            "The poem has no rhythm",
+            "The title is wrong"
+          ],
+          "correct_option_index": 1,
+          "correct_option_letter": "B",
+          "hint": "Return to the passage section relevant to “What does another reader’s performance show”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why remove one repeated phrase?",
+          "options": [
+            "To change the setting",
+            "To make it rhyme",
+            "Its absence can create emphasis",
+            "To add facts"
+          ],
+          "correct_option_index": 2,
+          "correct_option_letter": "C",
+          "hint": "Return to the passage section relevant to “Why remove one repeated phrase”. Which option is supported by a specific detail there?"
+        },
+        {
+          "question": "Why leave the ending unrhymed?",
+          "options": [
+            "It is unfinished",
+            "It lacks vocabulary",
+            "It must be sung",
+            "A neat resolution would misrepresent the feeling"
+          ],
+          "correct_option_index": 3,
+          "correct_option_letter": "D",
+          "hint": "Return to the passage section relevant to “Why leave the ending unrhymed”. Which option is supported by a specific detail there?"
+        }
+      ],
+      "written": [
+        {
+          "question": "How does a broken rhythmic pattern create tension?",
+          "exemplar": "It interrupts an expected beat and focuses attention on the pause.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Why does I waited work as a refrain?",
+          "exemplar": "Repetition makes the experience of waiting accumulate over time.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "What is the effect of removing one repetition?",
+          "exemplar": "The expected phrase is absent, creating emphasis through silence.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Compare a spoken performance and printed lineation.",
+          "exemplar": "Voice directly controls pace; line breaks and punctuation invite but do not dictate it.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Why reject a neat rhyming ending?",
+          "exemplar": "It implies an emotional resolution the experience does not offer.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        },
+        {
+          "question": "Explain why irregular rhythm can still be deliberate.",
+          "exemplar": "Changes in stress, pause and line length are chosen to support meaning.",
+          "hint": "Locate the part of the passage connected to this question, quote a detail, then explain how it supports your answer."
+        }
+      ],
+      "writing_task": "Write 16–24 lines about anticipation. Control refrain, stress, pauses and a deliberate break in rhythm; add performance notes.",
+      "reflection": "What interpretation might your language encourage or leave out?"
+    }
+  ]
+}
